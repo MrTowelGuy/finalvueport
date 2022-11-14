@@ -1,4 +1,4 @@
-# WELCOME TO [MY VUE PORTFOLIO](https://celebritea.herokuapp.com/)!
+# WELCOME TO [MY VUE PORTFOLIO](https://vuejadenport.netlify.app/)!
 
 ---
 
