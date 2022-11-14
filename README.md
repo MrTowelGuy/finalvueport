@@ -1,24 +1,41 @@
-# vue-portfolio
+# WELCOME TO [MY VUE PORTFOLIO](https://celebritea.herokuapp.com/)!
 
-## Project setup
-```
-npm install
-```
+---
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Description
 
-### Compiles and minifies for production
-```
-npm run build
-```
+A fun attempt at creating a good looking portfolio on VUE!
+<br>
+<br>
+<br>
 
-### Lints and fixes files
-```
-npm run lint
-```
+---
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![VuePortfolio.](https://i.imgur.com/4k8PHwL.png)
+
+
+
+---
+
+### Table of Contents
+
+- [Description](#description)
+- [Technologies)(#technologies)
+
+
+
+
+#### Technologies
+
+- CSS
+- VUE
+- JAVASCRIPT
+- HTML
+- and markdown, ofcourse!
+
+
+
+
+[Back To The Top](#read-me-template)
+
+---
