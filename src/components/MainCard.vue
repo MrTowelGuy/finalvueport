@@ -19,6 +19,11 @@
                         <img src="../assets/linkedin.svg" alt=""/>
                         </a>
                     </div>
+                    <div class="button-container">
+                <div class="projects-button">
+                    <a href="https://i.imgur.com/dViggE6.jpg" target="_blank">Resume</a>
+                </div>
+            </div>
         </div>
     </div>
         <div class="container-two">
@@ -28,21 +33,16 @@
             </div>
             <div class="technologies">
                 <h1>Technologies Studied</h1>
-                <p>More In Github Projects Details</p>
+                <p>(More In Github Projects Details)</p>
                 <div class="logos">
                     <img src="../assets/html5.svg" alt="">
                     <img src="../assets/css3-alt.svg" alt="">
                     <img src="../assets/square-js.svg" alt="">
                     <img src="../assets/react.svg" alt="">
                     <img src="../assets/vuejs.svg" alt="">
-                </div>
-            </div>
-            <div class="button-container">
-                <div class="projects-button">
-                    <a href="#">Projects</a>
-                </div>
-                <div class="projects-button">
-                    <a href="#">Resume</a>
+                    <img src="../assets/python.svg" alt="">
+                    <img src="../assets/markdown.svg" alt="">
+                    <img src="../assets/node-js.svg" alt="">
                 </div>
             </div>
         </div>
